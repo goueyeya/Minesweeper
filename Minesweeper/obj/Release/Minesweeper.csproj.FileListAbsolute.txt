@@ -1,0 +1,9 @@
+D:\Cours\IUT\S2\R202\TP7\Minesweeper\Minesweeper\bin\Release\Minesweeper.exe.config
+D:\Cours\IUT\S2\R202\TP7\Minesweeper\Minesweeper\bin\Release\Minesweeper.exe
+D:\Cours\IUT\S2\R202\TP7\Minesweeper\Minesweeper\bin\Release\Minesweeper.pdb
+D:\Cours\IUT\S2\R202\TP7\Minesweeper\Minesweeper\obj\Release\Minesweeper.frmMinersweeper.resources
+D:\Cours\IUT\S2\R202\TP7\Minesweeper\Minesweeper\obj\Release\Minesweeper.Properties.Resources.resources
+D:\Cours\IUT\S2\R202\TP7\Minesweeper\Minesweeper\obj\Release\Minesweeper.csproj.GenerateResource.cache
+D:\Cours\IUT\S2\R202\TP7\Minesweeper\Minesweeper\obj\Release\Minesweeper.csproj.CoreCompileInputs.cache
+D:\Cours\IUT\S2\R202\TP7\Minesweeper\Minesweeper\obj\Release\Minesweeper.exe
+D:\Cours\IUT\S2\R202\TP7\Minesweeper\Minesweeper\obj\Release\Minesweeper.pdb
